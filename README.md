@@ -22,6 +22,9 @@ cd Shortlink
 
 python Shortlink.py
 
+↓↓↓Token↓↓↓
+sboeYayT9UEi8pXVkEpqCMv0pqP3o71MS
+
 ### <h4 align="center">🔰 Shortlink 🔰</h4>
 
 ### 📱 Social Media 📱
