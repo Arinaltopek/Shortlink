@@ -8,9 +8,7 @@ pkg install python2
 
 pkg install git
 
-pkg install php
-
-pkg install bash
+pkg install figlet
 
 pip2 install requests
 
