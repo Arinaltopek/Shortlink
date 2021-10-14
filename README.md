@@ -27,6 +27,9 @@ sboeYayT9UEi8pXVkEpqCMv0pqP3o71MS
 
 ### <h4 align="center">🔰 Shortlink 🔰</h4>
 
+<center><img src="https://github.com/Arinaltopek/Shortlink/blob/main/Layar.jpg"></img></center>
+
+
 ### 📱 Social Media 📱
 
 - <a href="https://github.com/Arinaltopek">Github</a>
@@ -36,5 +39,3 @@ sboeYayT9UEi8pXVkEpqCMv0pqP3o71MS
 - <a href="https://m.facebook.com/arinal.bayhaqi.3">Facebook</a>
 
 - <a href="https://youtube.com/channel/UCizU7kz1sKzU5tB9aalbNRw">YouTube</a>
-
-<center><img src="https://github.com/Arinaltopek/Shortlink/blob/main/Layar.jpg"></img></center>
